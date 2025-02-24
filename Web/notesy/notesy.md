@@ -73,6 +73,7 @@ def bot_runner(link):
 2. Get the note's unique URL
 3. Submit URL to the report feature
 4. Monitor webhook.site dashboard
+![image](https://github.com/user-attachments/assets/9281d9cb-7225-49ae-96a1-b06827d3cacc)
 
 ### 4. Getting the Flag
 When the bot visits our note:
